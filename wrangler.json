@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "kemiao-news-ku",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "bde686bd-a591-414d-b079-bb391a4d0a87",
+      "database_name": "kemiao-news-ku"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
